@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
