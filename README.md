@@ -13,6 +13,7 @@
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -64,10 +66,12 @@
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Sorting
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +80,7 @@
 |  |
 | ------- |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -84,4 +89,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 <!---LeetCode Topics End-->
