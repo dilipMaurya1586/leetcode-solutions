@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 ## Tree
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 ## Heap (Priority Queue)
 |  |
