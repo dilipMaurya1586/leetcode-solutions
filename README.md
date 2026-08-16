@@ -26,6 +26,7 @@
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
+| [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
