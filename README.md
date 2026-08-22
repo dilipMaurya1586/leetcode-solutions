@@ -25,6 +25,7 @@
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -56,6 +57,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0735-asteroid-collision](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
@@ -142,6 +146,7 @@
 | [0503-next-greater-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Sorting
@@ -227,6 +232,7 @@
 | [0098-validate-binary-search-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
