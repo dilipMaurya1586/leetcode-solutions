@@ -33,6 +33,7 @@
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Two Pointers
@@ -193,6 +194,7 @@
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 ## Matrix
 |  |
 | ------- |
