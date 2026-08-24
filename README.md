@@ -127,6 +127,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Math
@@ -181,6 +183,7 @@
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
@@ -196,6 +199,7 @@
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Binary Search
@@ -235,12 +239,14 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
