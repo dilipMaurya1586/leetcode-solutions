@@ -178,6 +178,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -277,10 +279,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
