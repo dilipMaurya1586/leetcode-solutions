@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -149,6 +150,7 @@
 | [0039-combination-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Stack
@@ -178,6 +180,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0295-find-median-from-data-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
