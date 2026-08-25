@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
