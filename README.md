@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -258,6 +261,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -350,6 +354,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
