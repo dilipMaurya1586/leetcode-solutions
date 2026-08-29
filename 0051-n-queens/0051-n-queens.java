@@ -62,7 +62,14 @@ class Solution {
 
             // Go to next row
             backtrack(
-                    row + 1, n, board, cols, diag1, diag2, result);
+                    row + 1,
+                    n,
+                    board,
+                    cols,
+                    diag1,
+                    diag2,
+                    result
+            );
 
             // Backtrack
             board[row][col] = '.';
