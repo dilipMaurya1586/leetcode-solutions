@@ -25,6 +25,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -105,6 +107,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
@@ -264,6 +267,7 @@
 | [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
