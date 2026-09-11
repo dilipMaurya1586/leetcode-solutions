@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -82,6 +83,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -111,6 +113,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -138,6 +141,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -280,6 +284,7 @@
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
