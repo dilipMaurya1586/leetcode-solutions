@@ -446,6 +446,7 @@
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2076-process-restricted-friend-requests](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
 | ------- |
@@ -457,6 +458,7 @@
 | [0743-network-delay-time](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2076-process-restricted-friend-requests](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 ## Topological Sort
 |  |
 | ------- |
