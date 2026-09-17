@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -265,6 +266,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 ## Heap (Priority Queue)
@@ -520,4 +522,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
