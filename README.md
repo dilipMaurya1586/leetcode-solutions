@@ -36,6 +36,7 @@
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -209,6 +210,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -231,6 +233,7 @@
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -435,6 +438,7 @@
 | ------- |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -530,4 +534,9 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
