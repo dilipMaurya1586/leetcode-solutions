@@ -210,6 +210,7 @@
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 ## Heap (Priority Queue)
