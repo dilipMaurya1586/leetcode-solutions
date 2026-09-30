@@ -204,6 +204,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -555,4 +557,5 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
