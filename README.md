@@ -191,6 +191,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -381,6 +383,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -558,4 +561,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
