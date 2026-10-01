@@ -205,6 +205,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0730-count-different-palindromic-subsequences](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
@@ -223,6 +224,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0730-count-different-palindromic-subsequences](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
