@@ -193,6 +193,7 @@
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -212,6 +213,7 @@
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
