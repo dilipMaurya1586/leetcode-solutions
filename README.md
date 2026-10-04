@@ -33,6 +33,7 @@
 | [0332-reconstruct-itinerary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -228,6 +229,7 @@
 | [0198-house-robber](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0664-strange-printer) |
@@ -302,6 +304,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 ## Heap (Priority Queue)
@@ -563,6 +566,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 ## Memoization
 |  |
@@ -582,4 +586,13 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
