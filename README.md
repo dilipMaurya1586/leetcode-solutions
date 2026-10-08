@@ -137,6 +137,7 @@
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -168,6 +169,7 @@
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -271,6 +273,7 @@
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0743-network-delay-time](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
@@ -531,6 +535,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Bidirectional Search
 |  |
 | ------- |
