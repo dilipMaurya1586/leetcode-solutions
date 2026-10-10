@@ -50,6 +50,7 @@
 | [0739-daily-temperatures](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -167,6 +168,7 @@
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -221,6 +223,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
@@ -354,6 +357,7 @@
 | [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
@@ -544,6 +548,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 ## Eulerian Circuit
 |  |
 | ------- |
