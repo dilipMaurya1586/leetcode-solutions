@@ -56,6 +56,7 @@
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -141,6 +142,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -176,6 +178,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -406,6 +409,7 @@
 | [0741-cherry-pickup](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
