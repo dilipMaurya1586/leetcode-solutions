@@ -327,6 +327,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0412-fizz-buzz) |
