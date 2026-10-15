@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0412-fizz-buzz) |
