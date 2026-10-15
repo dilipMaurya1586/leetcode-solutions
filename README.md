@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -246,6 +247,7 @@
 | [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0118-pascals-triangle](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
