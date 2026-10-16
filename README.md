@@ -79,6 +79,7 @@
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
@@ -394,6 +395,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -671,8 +673,10 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
