@@ -231,6 +231,7 @@
 | [0127-word-ladder](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0412-fizz-buzz](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -380,6 +381,7 @@
 | [0126-word-ladder-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
