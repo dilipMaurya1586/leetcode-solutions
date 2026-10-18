@@ -156,6 +156,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -394,6 +395,7 @@
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -556,6 +558,7 @@
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -574,6 +577,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -673,6 +677,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Binary Indexed Tree
 |  |
 | ------- |
