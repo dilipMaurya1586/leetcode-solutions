@@ -253,6 +253,7 @@
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [2409-count-days-spent-together](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [2409-count-days-spent-together](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
