@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0641-design-circular-deque](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -512,6 +513,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0641-design-circular-deque](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
@@ -519,6 +521,7 @@
 | [0295-find-median-from-data-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0641-design-circular-deque](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
@@ -697,4 +700,5 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
