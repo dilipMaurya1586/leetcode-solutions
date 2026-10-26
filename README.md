@@ -85,6 +85,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +469,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -584,6 +588,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
