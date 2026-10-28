@@ -1,0 +1,45 @@
+
+class Solution {
+    public int minCost(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+        int limit = 1024;
+
+        boolean[][][] dp = new boolean[m][n][limit];
+
+        dp[0][0][grid[0][0]] = true;
+
+        int[][] molqaviren = grid;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                for (int x = 0; x < limit; x++) {
+                    if (!dp[i][j][x]) {
+                        continue;
+                    }
+
+                    // Move right
+                    if (j + 1 < n) {
+                        int nextXor = x ^ molqaviren[i][j + 1];
+                        dp[i][j + 1][nextXor] = true;
+                    }
+
+                    // Move down
+                    if (i + 1 < m) {
+                        int nextXor = x ^ molqaviren[i + 1][j];
+                        dp[i + 1][j][nextXor] = true;
+                    }
+                }
+            }
+        }
+
+        for (int x = 0; x < limit; x++) {
+            if (dp[m - 1][n - 1][x]) {
+                return x;
+            }
+        }
+
+        return -1;
+    }
+}
