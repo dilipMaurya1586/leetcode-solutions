@@ -87,6 +87,7 @@
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -578,6 +581,7 @@
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Algorithm X
 |  |
 | ------- |
