@@ -123,6 +123,7 @@
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0965-univalued-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -167,6 +168,7 @@
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0965-univalued-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -207,6 +209,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
+| [0965-univalued-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -239,6 +242,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0965-univalued-binary-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
