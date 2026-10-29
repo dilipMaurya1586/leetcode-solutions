@@ -46,6 +46,7 @@
 | [0542-01-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0695-max-area-of-island) |
