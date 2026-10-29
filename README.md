@@ -78,6 +78,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1646-get-maximum-in-generated-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
@@ -463,6 +464,7 @@
 | [0415-add-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1646-get-maximum-in-generated-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 ## Matrix
 |  |
