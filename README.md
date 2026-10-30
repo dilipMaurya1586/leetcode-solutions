@@ -67,6 +67,7 @@
 | [0875-koko-eating-bananas](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0934-shortest-bridge) |
+| [0978-longest-turbulent-subarray](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -313,6 +314,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1014-best-sightseeing-pair](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
@@ -763,4 +765,5 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0978-longest-turbulent-subarray](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
