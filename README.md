@@ -73,6 +73,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-last-stone-weight](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -314,6 +315,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1014-best-sightseeing-pair](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
