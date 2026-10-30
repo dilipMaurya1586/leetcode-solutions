@@ -38,6 +38,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0332-reconstruct-itinerary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -299,6 +300,7 @@
 | [0198-house-robber](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -755,4 +757,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
