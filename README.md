@@ -91,6 +91,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -322,6 +323,7 @@
 | [1049-last-stone-weight-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [3665-twisted-mirror-path-count](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -501,6 +503,7 @@
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
