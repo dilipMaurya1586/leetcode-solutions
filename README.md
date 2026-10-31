@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0130-surrounded-regions) |
