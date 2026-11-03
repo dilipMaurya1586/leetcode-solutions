@@ -314,6 +314,7 @@
 | [0486-predict-the-winner](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
