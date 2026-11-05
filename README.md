@@ -84,6 +84,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1776-car-fleet-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1776-car-fleet-ii) |
@@ -108,6 +109,7 @@
 | [0295-find-median-from-data-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | [0721-accounts-merge](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Math
 |  |
@@ -479,6 +482,7 @@
 | [0875-koko-eating-bananas](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
 ## Simulation
