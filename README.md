@@ -91,6 +91,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
+| [2747-count-zero-request-servers](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
@@ -399,6 +400,7 @@
 | [0853-car-fleet](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2454-next-greater-element-iv](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2454-next-greater-element-iv) |
+| [2747-count-zero-request-servers](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -458,6 +460,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [2365-task-scheduler-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2365-task-scheduler-ii) |
+| [2747-count-zero-request-servers](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3046-split-the-array) |
@@ -787,6 +790,7 @@
 | ------- |
 | [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [2747-count-zero-request-servers](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 ## Combinatorics
 |  |
 | ------- |
