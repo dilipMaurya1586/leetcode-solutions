@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -635,6 +636,7 @@
 | ------- |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
