@@ -43,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0410-split-array-largest-sum](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
@@ -398,6 +399,7 @@
 | [0047-permutations-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -417,6 +419,7 @@
 | [0062-unique-paths](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -459,6 +462,7 @@
 | [0133-clone-graph](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -486,6 +490,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -630,6 +635,7 @@
 | ------- |
 | [0078-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dilipMaurya1586/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
